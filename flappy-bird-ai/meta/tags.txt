@@ -1,0 +1,6 @@
+PyGame
+NEAT
+Evolutionary Algorithm
+
+location: https://github.com/Benjamin-van-Heerden/flappy-bird-ai.git
+
